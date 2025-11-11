@@ -15,18 +15,18 @@
 </div>
 
 -------------------
-👋 Soy Ingeniera civil en ciencia de datos, apasionada por la tecnología y el análisis de datos.
-Me encanta aprender cosas nuevas, crear soluciones con inteligencia artificial, y formar parte de proyectos que generen impacto real.
+👋 I'm a Data Science Engineer, passionate about technology and data analysis.
+I love learning new things, building AI-driven solutions, and being part of projects that make a real impact.
 <br>
-- 🚀 Siempre estoy explorando nuevas herramientas y buscando desafíos que me saquen de la zona de confort.
-- 🤝 Me encanta colaborar, compartir ideas y ayudar a otros a crecer en este mundo de la inteligencia artificial.
-- 💬 Si necesitas una mano o quieres charlar sobre tecnología, ¡no dudes en escribirme!
+- 🚀 I'm always exploring new tools and looking for challenges that push me out of my comfort zone.
+- 🤝 I enjoy collaborating, sharing ideas, and helping others grow in the world of artificial intelligence.
+- 💬 If you ever need a hand or just want to chat about tech, feel free to reach out!
 <br>
 
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-### 📋 Lenguajes de programación
+### 📋 Programming languages
 
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank"> 
