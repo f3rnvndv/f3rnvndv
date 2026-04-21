@@ -2,7 +2,7 @@
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Cience&font=Fira%20Code&center=true&width=440&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Science&font=Fira%20Code&center=true&width=440&height=45">
   </a>
 </p>
 <div align="center">
@@ -15,7 +15,7 @@
 </div>
 
 -------------------
-👋 I'm a Data Science Cience, passionate about technology and data analysis.
+👋 I'm a Data Science Science, passionate about technology and data analysis.
 I love learning new things, building AI-driven solutions, and being part of projects that make a real impact.
 <br>
 - 🚀 I'm always exploring new tools and looking for challenges that push me out of my comfort zone.
